@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
@@ -100,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
