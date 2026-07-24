@@ -6,7 +6,6 @@
 
 class Solution(object):
     def detectCycle(self, head):
-
         slow = head
         fast = head
 
@@ -15,14 +14,11 @@ class Solution(object):
             fast = fast.next.next
 
             if slow == fast:
-                break
-        else:
-            return None
+                slow = head
+                while slow != fast:
+                    slow = slow.next
+                    fast = fast.next
+                return slow
 
-        slow = head
-
-        while slow != fast:
-            slow = slow.next
-            fast = fast.next
-
-        return slow
+    
+        return None
