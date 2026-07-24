@@ -5,7 +5,6 @@
 #         self.next = next
 class Solution(object):
     def rotateRight(self, head, k):
-
         if not head or not head.next or k == 0:
             return head
 
@@ -16,21 +15,18 @@ class Solution(object):
             tail = tail.next
             length += 1
 
-        k = k % length
-
+        k %= length
         if k == 0:
             return head
 
         tail.next = head
 
-        steps = length - k - 1
-        newTail = head
+        new_tail = head
+        for _ in range(length - k - 1):
+            new_tail = new_tail.next
 
-        for _ in range(steps):
-            newTail = newTail.next
+        new_head = new_tail.next
+        new_tail.next = None
 
-        newHead = newTail.next
-
-        newTail.next = None
-
-        return newHead
+        return new_head
+        
