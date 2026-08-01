@@ -12,8 +12,8 @@ class Solution(object):
 
             for i in range(start, len(candidates)):
                 path.append(candidates[i])
-                backtrack(i, target - candidates[i], path)  # Reuse same element
-                path.pop()  # Backtrack
+                backtrack(i, target - candidates[i], path)  
+                path.pop()  
 
         backtrack(0, target, [])
         return result
