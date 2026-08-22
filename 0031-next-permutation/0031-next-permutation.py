@@ -2,25 +2,24 @@ class Solution:
     def nextPermutation(self, nums):
         n = len(nums)
 
-        i = n - 2
-        while i >= 0 and nums[i] >= nums[i + 1]:
-            i -= 1
+        # Step 1: Find breakpoint
+        index = -1
 
-        if i >= 0:
-            j = n - 1
-            while nums[j] <= nums[i]:
-                j -= 1
+        for i in range(n - 2, -1, -1):
+            if nums[i] < nums[i + 1]:
+                index = i
+                break
 
-            nums[i], nums[j] = nums[j], nums[i]
+        # Step 2: If no breakpoint, reverse the array
+        if index == -1:
+            nums.reverse()
+            return
 
-        left = i + 1
-        right = n - 1
+        # Step 3: Find the smallest element greater than nums[index]
+        for i in range(n - 1, index, -1):
+            if nums[i] > nums[index]:
+                nums[i], nums[index] = nums[index], nums[i]
+                break
 
-        while left < right:
-            nums[left], nums[right] = nums[right], nums[left]
-            left += 1
-            right -= 1
-obj=Solution()
-nums=[1,2,3]
-obj.nextPermutation(nums)
-print(nums)
+        # Step 4: Reverse the remaining part
+        nums[index + 1:] = reversed(nums[index + 1:])
