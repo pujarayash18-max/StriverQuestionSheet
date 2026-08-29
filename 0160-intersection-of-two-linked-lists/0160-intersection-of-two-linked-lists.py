@@ -6,12 +6,6 @@
 
 class Solution(object):
     def getIntersectionNode(self, headA, headB):
-        """
-        :type headA: ListNode
-        :type headB: ListNode
-        :rtype: ListNode
-        """
-
         a = headA
         b = headB
 
