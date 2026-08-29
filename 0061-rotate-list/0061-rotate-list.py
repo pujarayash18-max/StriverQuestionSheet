@@ -18,7 +18,6 @@ class Solution(object):
         k %= length
         if k == 0:
             return head
-
         tail.next = head
 
         new_tail = head
