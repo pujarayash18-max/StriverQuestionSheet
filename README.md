@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0088-merge-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0455-assign-cookies) |
 ## Math
 |  |
@@ -226,4 +228,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0455-assign-cookies) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
