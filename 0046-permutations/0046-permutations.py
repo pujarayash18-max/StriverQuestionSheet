@@ -14,6 +14,5 @@ class Solution(object):
                 backtrack(path)
                 path.pop()
                 used[i] = False
-
         backtrack([])
         return result
