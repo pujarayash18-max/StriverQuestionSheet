@@ -1,13 +1,7 @@
-class Solution(object):
-    def findMaxConsecutiveOnes(self, nums):
-        count = 0
-        ans = 0
-
-        for num in nums:
-            if num == 1:
-                count += 1
-                ans = max(ans, count)
-            else:
-                count = 0
-
-        return ans
+class Solution():
+    def findMaxConsecutiveOnes(self,nums):
+        best = cur = 0
+        for x in nums:
+            cur = cur + 1 if x == 1 else 0
+            best = max(best, cur)
+        return best
