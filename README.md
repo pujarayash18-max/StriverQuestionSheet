@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0493-reverse-pairs) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0455-assign-cookies) |
 ## Math
 |  |
@@ -236,8 +240,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0295-find-median-from-data-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
