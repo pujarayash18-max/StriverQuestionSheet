@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -187,10 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0496-next-greater-element-i) |
 ## Breadth-First Search
 |  |
 | ------- |
