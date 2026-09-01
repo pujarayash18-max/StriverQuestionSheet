@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0496-next-greater-element-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0455-assign-cookies) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0242-valid-anagram) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
 |  |
