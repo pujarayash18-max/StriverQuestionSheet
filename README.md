@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0493-reverse-pairs) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0460-lfu-cache](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0287-find-the-duplicate-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Recursion
 |  |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## String Matching
 |  |
