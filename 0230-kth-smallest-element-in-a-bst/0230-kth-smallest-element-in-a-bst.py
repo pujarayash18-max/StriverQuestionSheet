@@ -6,24 +6,17 @@
 #         self.right = right
 class Solution:
     def kthSmallest(self, root, k):
-        stack = []
-        current = root
-        count = 0
+        inorder = []
 
-        while True:
-            # Go as far left as possible
-            while current is not None:
-                stack.append(current)
-                current = current.left
+        def dfs(node):
+            if node is None:
+                return
 
-            # Visit node
-            current = stack.pop()
-            count += 1
+            dfs(node.left)
+            inorder.append(node.val)
+            dfs(node.right)
 
-            # kth smallest found
-            if count == k:
-                return current.val
+        dfs(root)
 
-            # Move to right subtree
-            current = current.right
+        return inorder[k - 1]
         
