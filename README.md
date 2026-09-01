@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0287-find-the-duplicate-number) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Recursion
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0208-implement-trie-prefix-tree) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## String Matching
 |  |
 | ------- |
