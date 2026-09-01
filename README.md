@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0128-longest-consecutive-sequence) |
+| [0239-sliding-window-maximum](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0239-sliding-window-maximum) |
 ## Linked List
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
@@ -281,4 +284,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
