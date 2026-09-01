@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0460-lfu-cache) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0165-compare-version-numbers) |
+| [0208-implement-trie-prefix-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0242-valid-anagram) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0208-implement-trie-prefix-tree) |
 ## String Matching
 |  |
 | ------- |
