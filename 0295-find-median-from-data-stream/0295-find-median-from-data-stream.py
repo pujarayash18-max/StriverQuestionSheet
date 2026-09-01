@@ -3,11 +3,8 @@ import heapq
 class MedianFinder:
 
     def __init__(self):
-        # Max heap for the smaller half
-        # Python has only min heap, so store negative values
         self.left = []
 
-        # Min heap for the larger half
         self.right = []
 
     def addNum(self, num):
