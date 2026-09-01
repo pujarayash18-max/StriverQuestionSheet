@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0165-compare-version-numbers](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0295-find-median-from-data-stream) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0242-valid-anagram) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
