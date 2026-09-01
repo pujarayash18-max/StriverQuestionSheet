@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0460-lfu-cache) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
@@ -318,10 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0347-top-k-frequent-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0295-find-median-from-data-stream) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0901-online-stock-span) |
 ## Bucket Sort
 |  |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -488,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Iterator
