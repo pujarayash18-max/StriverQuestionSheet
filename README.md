@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0152-maximum-product-subarray) |
 | [0239-sliding-window-maximum](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0322-coin-change) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0322-coin-change) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1373-maximum-sum-bst-in-binary-tree) |
