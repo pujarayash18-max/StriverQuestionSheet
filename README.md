@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0994-rotting-oranges) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0518-coin-change-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sorting
@@ -311,10 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/pujarayash18-max/StriverQuestionSheet/tree/master/0518-coin-change-ii) |
 ## Quicksort
 |  |
 | ------- |
